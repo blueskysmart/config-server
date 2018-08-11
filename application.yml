@@ -1,2 +1,4 @@
 some:
   property: test
+  other:
+    property: other test
